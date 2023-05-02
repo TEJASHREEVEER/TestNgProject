@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="5" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-02T17:03:21Z" name="Surefire suite" finished-at="2023-05-02T17:03:21Z" duration-ms="26">
+    <groups>
+    </groups>
+    <test started-at="2023-05-02T17:03:21Z" name="Surefire test" finished-at="2023-05-02T17:03:21Z" duration-ms="26">
+      <class name="testcases.CarloanTest">
+        <test-method is-config="true" signature="method3()[pri:0, instance:testcases.CarloanTest@aeb8b563]" started-at="2023-05-02T17:03:21Z" name="method3" finished-at="2023-05-02T17:03:21Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method signature="test3()[pri:2, instance:testcases.CarloanTest@aeb8b563]" started-at="2023-05-02T17:03:21Z" name="test3" finished-at="2023-05-02T17:03:21Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="method1()[pri:0, instance:testcases.CarloanTest@aeb8b563]" started-at="2023-05-02T17:03:21Z" name="method1" finished-at="2023-05-02T17:03:21Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:testcases.CarloanTest@aeb8b563]" started-at="2023-05-02T17:03:21Z" name="method2" finished-at="2023-05-02T17:03:21Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method is-config="true" signature="method4()[pri:0, instance:testcases.CarloanTest@aeb8b563]" started-at="2023-05-02T17:03:21Z" name="method4" finished-at="2023-05-02T17:03:21Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method4 -->
+      </class> <!-- testcases.CarloanTest -->
+      <class name="testcases.HomeLoanTest">
+        <test-method is-config="true" signature="method1()[pri:0, instance:testcases.HomeLoanTest@7d93dc40]" started-at="2023-05-02T17:03:21Z" name="method1" finished-at="2023-05-02T17:03:21Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="test2()[pri:0, instance:testcases.HomeLoanTest@7d93dc40]" started-at="2023-05-02T17:03:21Z" name="test2" finished-at="2023-05-02T17:03:21Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:testcases.HomeLoanTest@7d93dc40]" started-at="2023-05-02T17:03:21Z" name="method2" finished-at="2023-05-02T17:03:21Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method is-config="true" signature="method1()[pri:0, instance:testcases.HomeLoanTest@7d93dc40]" started-at="2023-05-02T17:03:21Z" name="method1" finished-at="2023-05-02T17:03:21Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="test1()[pri:1, instance:testcases.HomeLoanTest@7d93dc40]" started-at="2023-05-02T17:03:21Z" name="test1" finished-at="2023-05-02T17:03:21Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:testcases.HomeLoanTest@7d93dc40]" started-at="2023-05-02T17:03:21Z" name="method2" finished-at="2023-05-02T17:03:21Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- testcases.HomeLoanTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

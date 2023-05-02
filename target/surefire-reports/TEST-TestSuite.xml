@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="0.351" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="jdk.extensions.version" value="11.0.9.0"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\TVR2\Eclipse Workspace\TestNgProject\target\test-classes;C:\Users\TVR2\Eclipse Workspace\TestNgProject\target\classes;C:\Users\TVR2\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\TVR2\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\TVR2\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse OpenJ9"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="com.ibm.vm.bitmode" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="com.ibm.oti.vm.library.version" value="29"/>
+    <property name="java.vendor.url" value="https://adoptopenjdk.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\AdoptOpenJDK\jre-11.0.9.11-openj9\bin\compressedrefs;C:\Program Files\AdoptOpenJDK\jre-11.0.9.11-openj9\bin"/>
+    <property name="sun.java.command" value="C:\Users\TVR2\AppData\Local\Temp\surefire8313243694586197895\surefirebooter-20230502223320138_3.jar C:\Users\TVR2\AppData\Local\Temp\surefire8313243694586197895 2023-05-02T22-33-20_036-jvmRun1 surefire-20230502223320138_1tmp surefire_0-20230502223320138_2tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\TVR2\Eclipse Workspace\TestNgProject\target\test-classes;C:\Users\TVR2\Eclipse Workspace\TestNgProject\target\classes;C:\Users\TVR2\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\TVR2\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\TVR2\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\TVR2"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-10-20"/>
+    <property name="java.home" value="C:\Program Files\AdoptOpenJDK\jre-11.0.9.11-openj9"/>
+    <property name="ibm.signalhandling.rs" value="false"/>
+    <property name="file.separator" value="\"/>
+    <property name="jdk.extensions.name" value="Extensions for OpenJDK for Eclipse OpenJ9"/>
+    <property name="basedir" value="C:\Users\TVR2\Eclipse Workspace\TestNgProject"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.compiler" value="j9jit29"/>
+    <property name="com.ibm.util.extralibs.properties" value=""/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="com.ibm.oti.configuration" value="scar"/>
+    <property name="java.awt.fonts" value=""/>
+    <property name="surefire.real.class.path" value="C:\Users\TVR2\AppData\Local\Temp\surefire8313243694586197895\surefirebooter-20230502223320138_3.jar"/>
+    <property name="com.ibm.oti.shared.enabled" value="false"/>
+    <property name="com.ibm.oti.vm.bootstrap.library.path" value="C:\Program Files\AdoptOpenJDK\jre-11.0.9.11-openj9\bin\compressedrefs;C:\Program Files\AdoptOpenJDK\jre-11.0.9.11-openj9\bin"/>
+    <property name="com.ibm.cpu.endian" value="little"/>
+    <property name="java.fullversion" value="11.0.9+11&#10;JRE 11 Windows 10 amd64-64-Bit Compressed References 20201022_795 (JIT enabled, AOT enabled)&#10;OpenJ9   - 0394ef754&#10;OMR      - 582366ae5&#10;JCL      - 3b09cfd7e9 based on jdk-11.0.9+11"/>
+    <property name="java.runtime.version" value="11.0.9+11"/>
+    <property name="user.name" value="TVR2"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="ibm.signalhandling.sigint" value="true"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Eclipse OpenJ9 VM"/>
+    <property name="java.vendor.version" value="AdoptOpenJDK"/>
+    <property name="ibm.signalhandling.sigchain" value="true"/>
+    <property name="localRepository" value="C:\Users\TVR2\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/AdoptOpenJDK/openjdk-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\TVR2\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.9"/>
+    <property name="com.ibm.system.agent.path" value="C:\Program Files\AdoptOpenJDK\jre-11.0.9.11-openj9\bin"/>
+    <property name="user.dir" value="C:\Users\TVR2\Eclipse Workspace\TestNgProject"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="os.encoding" value="UTF8"/>
+    <property name="java.library.path" value="C:\Program Files\AdoptOpenJDK\jre-11.0.9.11-openj9\bin\compressedrefs;C:\Program Files\AdoptOpenJDK\jre-11.0.9.11-openj9\bin;C:\windows\system32;C:\windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\AdoptOpenJDK\jre-11.0.9.11-openj9\bin;c:\buildtools;C:\Perl\site\bin;C:\Perl\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Oracle\Berkeley DB 12cR1 6.0.20\bin;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\IncrediBuild;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\PuTTY\;C:\Users\TVR2\Desktop\Automation\Simplilearn\Phase2\apache-maven-3.9.1\bin;C:\Users\TVR2\Desktop\Automation\Simplilearn\Phase2\apache-maven-3.9.1\bin;C:\Program Files\Git\cmd;C:\Users\TVR2\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vendor" value="AdoptOpenJDK"/>
+    <property name="java.vm.info" value="JRE 11 Windows 10 amd64-64-Bit Compressed References 20201022_795 (JIT enabled, AOT enabled)&#10;OpenJ9   - 0394ef754&#10;OMR      - 582366ae5&#10;JCL      - 3b09cfd7e9 based on jdk-11.0.9+11"/>
+    <property name="java.vm.version" value="openj9-0.23.0"/>
+    <property name="com.ibm.jcl.checkClassPath" value=""/>
+    <property name="ibm.system.encoding" value="Cp1252"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="test2" classname="testcases.HomeLoanTest" time="0.001">
+    <system-out><![CDATA[Inside before test
+Inside before method
+Inside home loan test 2
+]]></system-out>
+  </testcase>
+  <testcase name="test1" classname="testcases.HomeLoanTest" time="0.002">
+    <system-out><![CDATA[Inside after method
+Inside before method
+Inside home loan test 1
+]]></system-out>
+  </testcase>
+  <testcase name="test3" classname="testcases.CarloanTest" time="0">
+    <system-out><![CDATA[Inside after method
+Inside before method
+Inside Car Loan test3
+]]></system-out>
+  </testcase>
+</testsuite>
